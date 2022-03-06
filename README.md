@@ -8,8 +8,8 @@
 ## I'm a ICT Student !!
 
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to grab 
-- 🥅 2022 Goals: Learn more about web3,Python Libraries
+- 👯 I’m looking to grab Opportunitir=es in my field of backend devloping!
+- 🥅 2022 Goals: Learn more about web3,Python.
 - I'm also a active Investor!
 - 😻 Check out the tweets collection I created on investing: [Here](https://twitter.com/abhipatel31)
 
