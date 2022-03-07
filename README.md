@@ -32,11 +32,26 @@
 
 
 
-</details>
+<br>
+ -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhipatel31-7&theme=dark&fire=87ceeb&ring=87ceeb&currStreakLabel=87ceeb" alt="GitHub Streak" />
+</p>
 
-  <img align="left" alt="Abhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhipatel31-7&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhipatel31-7&hide=issues&theme=algolia" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/abhipatel31-7"><img alt="Abhi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhipatel31-7&theme=react-dark&color=fff&bg_color=#800080
+" /></a>
+</p>
 
+<br>
+
+<p align="center">
+  <a href="https://abhipatel.in/"></a>
+</p>
+
+<br>
