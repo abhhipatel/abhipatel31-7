@@ -1,7 +1,7 @@
 # Hi there, I'm Abhi 👋 
 
 
-[![Website](https://img.shields.io/website?label=Abhi.com&style=for-the-badge&url=https%3A%2F%2Fabhipatel.com)](https://twitter.com/abhipatel31)
+[![Website](https://img.shields.io/website?label=abhi.in&style=for-the-badge&url=https%3A%2F%2Fabhipatel.com)](https://twitter.com/abhipatel31)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbhiPatel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=abhipatel31)
 
 
