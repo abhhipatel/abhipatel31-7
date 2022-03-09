@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://abhipatel.in#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://abhipatel.in#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCf-IG3TDBNfwsUlL_M1Tp_A)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
