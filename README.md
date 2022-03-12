@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to grab Opportunity in my field of backend devloping!
-- 🥅 2022 Goals: Learn more about web3,Python.
+- 🥅 2022 Goals: Learn more about web3,Python,ML and Cloud.
 - I'm also an active Investor!
 - 😻 Check out the tweets collection I created on investing: [Here](https://twitter.com/abhipatel31)
 
