@@ -7,7 +7,7 @@
 
 ## I'm a B.Tech Information and communication technology (ICT) Student!
 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Web3, DS & Algo.
 - 👯 I’m looking to grab Opportunity in my field of backend devloping!
 - 🥅 2022 Goals: Learn more about web3,Python,ML and Cloud.
 - I'm also an active Investor !
