@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=abhipatel.online&style=for-the-badge&url=https%3A%2F%2Fabhipatel.online)](https://abhipatel.online/)
 
 
-## I'm a B.Tech Under Graduate in specialization of Information and communication technology (ICT) from PDEU, Gandhinagar!
+## I'm in Final year of B.tech Program in specialization of Information and communication technology (ICT) from PDEU, Gandhinagar!
 
 - 🌱 I’m currently learning New Technologies as each generation of technology improves over the last, the rate of progress from version to version speeds up..
 - 👯 I’m looking to grab Opportunity in field of Computer Science and ML/Ai!
